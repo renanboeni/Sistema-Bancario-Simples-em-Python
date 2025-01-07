@@ -19,13 +19,10 @@ Este projeto consiste em um sistema bancário simples desenvolvido em Python. El
 - **Sair**:
   - Finaliza o programa.
 
----
-
 ## 🛠️ Tecnologias Utilizadas
 
 - **Python**: Linguagem principal utilizada para o desenvolvimento do sistema.
 
----
 
 ## 📂 Estrutura do Projeto
 
@@ -36,8 +33,6 @@ Este projeto consiste em um sistema bancário simples desenvolvido em Python. El
 
 - `main.py`: Contém o código-fonte do sistema bancário.
 - `README.md`: Documentação do projeto.
-
----
 
 ## 🔧 Como Executar o Projeto
 
@@ -61,15 +56,12 @@ Este projeto consiste em um sistema bancário simples desenvolvido em Python. El
 
 Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir uma _issue_ ou enviar um _pull request_.
 
----
-
 ## 📄 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENCE.txt) para mais detalhes.
 
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 
----
 
 ## 🖊️ Autor
 
