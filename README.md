@@ -30,11 +30,11 @@ Este projeto consiste em um sistema bancário simples desenvolvido em Python. El
 ## 📂 Estrutura do Projeto
 
 ```
-|-- banco_simples.py
+|-- main.py
 |-- README.md
 ```
 
-- `banco_simples.py`: Contém o código-fonte do sistema bancário.
+- `main.py`: Contém o código-fonte do sistema bancário.
 - `README.md`: Documentação do projeto.
 
 ---
@@ -43,17 +43,17 @@ Este projeto consiste em um sistema bancário simples desenvolvido em Python. El
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/banco-simples.git
+   git clone https://github.com/renanboeni/Sistema-Bancario-Simples-em-Python.git
    ```
 
 2. Acesse o diretório do projeto:
    ```bash
-   cd banco-simples
+   cd Sistema Bancário com Python
    ```
 
 3. Execute o programa:
    ```bash
-   python banco_simples.py
+   python main.py
    ```
 
 
